@@ -1,0 +1,6 @@
+newmtl Tile
+map_Kd ground.tga
+bump ground_normal.tga
+Kd 1 1 1
+d 1
+
